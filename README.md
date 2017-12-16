@@ -1,4 +1,4 @@
-# .codes : 
+# codes : 
 ```javascript
 $huffCodes->encode(2);
 ```
